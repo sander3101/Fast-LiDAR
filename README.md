@@ -1,4 +1,4 @@
-# Master project
+# Fast-LiDAR
 
 ## Setup
 
